@@ -1,1 +1,1 @@
-Проект "Оно тебе надо: "https://github.com/Maslennikova2006/ono-tebe-nado-ad
+Проект "Оно тебе надо": https://github.com/Maslennikova2006/ono-tebe-nado-ad
